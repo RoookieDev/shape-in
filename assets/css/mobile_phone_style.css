@@ -1,0 +1,119 @@
+@media(max-width:768px){
+    
+    .toggle-btn{
+        height: auto;
+        display: block;
+        padding:0px 5px;
+        font-size: 0.9em;
+        display: grid;
+        align-content: center;
+    }
+    
+    .menu_bx .logo-bx{
+        padding: 10px 20px;
+        text-align: center;
+    }
+    .menu_bx .logo-bx h4{
+        justify-content: space-between;
+    }
+
+    .menu_bx .menu{
+        display: none;
+        padding: 0;
+    }
+    .menu_bx .menu ul li{
+        display: block;
+        padding: 0px;
+    }
+    .menu_bx .menu ul li a{
+        width: 100%;
+        padding: 10px 20px;
+        display: inline-block;
+        color: white;
+    }
+    .menu_bx .menu ul{
+        text-align: center;
+        background: #333;
+    }
+
+    .menu_bx .icon-bx{
+        margin-top: 10px;
+    }
+
+    .slider-bx .carousel .carousel-inner{
+        background: none;
+    }
+    .slider-bx .carousel .carousel-inner .carousel-item .slider-text{
+        padding: 20px 20px;
+        height: 500px;
+    }
+    .slider-bx .carousel .carousel-inner .carousel-item .slider-img{
+        display: none;
+    }
+
+
+
+    .owl_carousel{
+        padding: 20px 5px;
+    }
+    .owl_carousel .item{
+        padding: 5px;
+    }
+    .owl_carousel .card{
+        box-shadow: none;
+    }
+    .owl_carousel .owl-theme .owl-dots .owl-dot span{
+
+        width: 20px;
+    }
+
+
+
+    .third_con .col-md-3{
+        margin: 20px 0px;
+    }
+    .third_con .card{
+        margin: 10px 0px;
+    }
+
+
+
+    .program-bx h2{
+        font-size: 2.5em;
+    }
+    .program-bx h5{
+        font-size: 1.1em;
+    }
+    .program-bx .card-bx .card{
+        width: 100%;
+    }
+    .program-bx .card-bx .card .text-bx h4{
+        font-size: 1.4em;
+    }
+    .program-bx .card-bx .card .text-bx p{
+        font-size: 1em;
+    }
+
+
+
+
+    .blog-bx{
+        padding: 10px;
+        height: 100%;
+    }
+    .blog-bx .img-bx .img-vertical,
+    .blog-bx .img-bx .img-horizontal{
+        display: none;
+    }
+    .blog-bx .img-bx img{
+        box-shadow: none;
+    }
+    .blog-bx #mobile-img{
+        display: block;
+    }
+    
+
+    
+
+
+}
